@@ -1,0 +1,32 @@
+{
+  "name": "productreview",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^1.7.2",
+    "@emotion/react": "^11.7.0",
+    "@emotion/styled": "^11.6.0",
+    "@heroicons/react": "^1.0.5",
+    "@reduxjs/toolkit": "^1.6.2",
+    "axios": "^0.24.0",
+    "framer-motion": "^4.1.17",
+    "next": "12.0.4",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-hook-form": "^7.20.5",
+    "react-redux": "^7.2.6",
+    "redux": "^4.1.2",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-thunk": "^2.4.1"
+  },
+  "devDependencies": {
+    "eslint": "8.3.0",
+    "eslint-config-next": "12.0.4"
+  }
+}
